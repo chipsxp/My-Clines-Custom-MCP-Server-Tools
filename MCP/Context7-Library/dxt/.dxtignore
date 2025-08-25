@@ -1,0 +1,8 @@
+./schema/
+prettier.config.mjs
+smithery.yaml
+Dockerfile
+eslint.config.js
+*.md
+*.ts
+LICENSE
